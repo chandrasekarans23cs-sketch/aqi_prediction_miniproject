@@ -1,11 +1,8 @@
-# Streamlit app dependencies
-streamlit>=1.30.0
-tensorflow==2.13.0
-pandas==2.1.0
-scikit-learn==1.3.2
-numpy==1.26.2
-requests==2.34.0
-matplotlib==3.8.0
-lime==0.2.2.1
-
-# Let Streamlit handle rich/mdurl/markdown-it-py automatically
+streamlit
+tensorflow
+pandas
+scikit-learn
+numpy
+requests
+matplotlib
+lime
